@@ -1,0 +1,2 @@
+act12345 = wifi pw
+aws05 name
